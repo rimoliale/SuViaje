@@ -1,7 +1,8 @@
 @media (max-width: 768px) {
 
 img {
-    width: 112vh;
+    width: 45vw;
+    height: auto;
     max-width: stretch !important;
     max-height: stretch !important;
     vertical-align: middle;
@@ -22,5 +23,13 @@ img {
     width: 16vw;
 
 }
+
+.price
+{
+    display: contents;
+    justify-content: center;
+
+}
+
 
 }
