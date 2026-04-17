@@ -1,7 +1,7 @@
 @media (max-width: 768px) {
 
 img {
-    width: 45vw;
+    width: 42vw;
     height: auto;
     max-width: stretch !important;
     max-height: stretch !important;
@@ -10,6 +10,8 @@ img {
 }
 
 .row-par-contenedor{
+  display: flex;
+  flex-direction: row;
   margin-left: 1vh;
   margin-right: 1vh;
   margin-bottom: 8vh;
